@@ -1,4 +1,4 @@
-
+/play secret
 <h1>Zelda survival game</h1>
 
 Thanks for checking it out. This is the frist publish of this game, its pretty bare bones, more features are on the way! 
